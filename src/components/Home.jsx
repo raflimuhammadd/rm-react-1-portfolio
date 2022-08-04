@@ -14,7 +14,7 @@ const Home = () => {
 
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white "> 
-          I am A Court Chef </h2>
+          I am A Court Cookie Chef </h2>
           <p className="text-gray-500 py-4 max-w-md">
             Wardell Stephen Curry II is an American professional 
             basketball player for the Golden State 
